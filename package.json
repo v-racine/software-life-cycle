@@ -1,0 +1,25 @@
+{
+  "name": "software-life-cycle",
+  "version": "1.0.0",
+  "description": "Working on software development life cycle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-racine/software-life-cycle.git"
+  },
+  "author": "Valerie Racine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-racine/software-life-cycle/issues"
+  },
+  "homepage": "https://github.com/v-racine/software-life-cycle#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
